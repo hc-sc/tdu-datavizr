@@ -1,0 +1,37 @@
+--- 
+title: "TDU: Data Visualization in R"
+author: "Benjamin M Hetman"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a draft example of using the bookdown package to create course 
+  materials for the PHAC Training and Development Unit's Data Visualization in 
+  R course. 
+link-citations: yes
+github-repo: hetmanb/TDU_R_Dataviz
+---
+
+# Welcome to TDU Dataviz in R! {-}
+
+This is a first-use example of applying RMarkdown and **bookdown** to compile and share notes, towards building new course material for the **TDU Data Visualization in R** course (e.g., "TDU R Dataviz"). This is a minimal example of creating a book based on R Markdown and **bookdown** ([<https://github.com/rstudio/bookdown>](https://github.com/rstudio/bookdown)).
+
+The **bookdown** package can be installed using the following command in R:
+
+> install.packages("bookdown")
+
+Or alternatively, one can download the developer version for the most up-to-date features:
+
+> devtools::install_github('rstudio/bookdown')
+
+------------------------------------------------------------------------
+
+Interested in learning more about how this document was put together? See the following additional resources:
+
+The **bookdown** book: <https://bookdown.org/yihui/bookdown/>
+
+The **bookdown** package reference site: <https://pkgs.rstudio.com/bookdown>
+

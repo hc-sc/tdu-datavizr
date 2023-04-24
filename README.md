@@ -1,4 +1,4 @@
-#Welcome!
+# Welcome!
 
 Welcome to the PHAC Training and Development Unit's (TDU) Data Visualization in R course!
 

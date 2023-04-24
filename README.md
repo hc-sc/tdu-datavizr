@@ -6,3 +6,5 @@ This repository will host the participant files and workbooks for practical exer
 
 DOWNLOADING COURSE MATERIALS:
 To download all course materials at one time from the TDU Data Viz in R GitHub repository, navigate to the green “Code” button near the top right portion of the screen and click on it. Then select “Download ZIP” from the dropdown menu. See the image below. Download of the zip file containing course materials should begin within a few minutes. Please reach out to your course leads for assistance if you are unable to access materials stored in our GitHub repository. Note: We recommend downloading course materials prior to joining the course as we are unable to assist with issues relating to network download speed.
+
+## Note: Course materials will be posted closer to the start of the course. Please check back again soon!

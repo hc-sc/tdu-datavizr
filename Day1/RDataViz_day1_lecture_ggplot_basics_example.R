@@ -1,10 +1,12 @@
 ########################################################################################
 #Purpose: ggplot example to use in lecture for day 1 of data visualization in R training.
-#Author: Applied Epi, Epidemiologist R Handbook, Ch. 30 - ggplot basics
+#         Shared here for course participants to follow along (optional).
+#Author: Applied Epi
+#Source: Epidemiologist R Handbook, Ch. 30 - ggplot basics
+#        https://www.epirhandbook.com/en/ggplot-basics.html
 #Last modified: 2023-04-11
 #Last modified by: J. Stares
-#Modifications: Very minor, to highlight examples from Epi R Handbook for TDU training.
-#https://www.epirhandbook.com/en/ggplot-basics.html
+#Modifications: Very minor, only to highlight examples from Epi R Handbook for TDU training.
 ########################################################################################
 
 

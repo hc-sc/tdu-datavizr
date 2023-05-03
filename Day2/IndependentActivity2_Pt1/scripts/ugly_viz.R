@@ -32,7 +32,7 @@ windowsFonts(Joker=windowsFont("Jokerman"))
 windowsFonts(Times=windowsFont("TT Times New Roman"))
 
 ### Imports the raw dataset into linelist
-linelist <- import(here("De-Ugly", "data", "bchips_dataset_2022.csv"), header = TRUE)
+linelist <- import(here("data", "bchips_dataset_2022.csv"), header = TRUE)
 
 
 # Create a custom theme for the visualization. 

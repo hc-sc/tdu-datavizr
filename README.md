@@ -1,6 +1,6 @@
 # Welcome!
 
-Welcome to the PHAC Training and Development Unit's (TDU) Data Visualization in R course! Here, we'll keep a record of all the files necessary to attend and complete the course. If you're not familiar working in Github, you can treat this as an online folder for accessing course resources. Please be sure to review the course participant guide for an overview of how the course works. This course is currently offered in English only. Select translated materials are available upon request.
+Welcome to the PHAC Training and Development Unit's (TDU) Data Visualization in R course! Here, we'll keep a record of all the files necessary to attend and complete the course. If you're not familiar working in Github, you can treat this as an online folder for accessing course resources. Please be sure to review the course participant guide for an overview of how the course works. This course is currently offered in English only. Translation of the course into French is ongoing. In the interim, select translated materials are available upon request.
 
 ## DOWNLOADING COURSE MATERIALS:
 
@@ -8,7 +8,7 @@ To download all course materials at one time from the TDU Intro to R GitHub repo
 
 # Bienvenue!
 
-Bienvenue au cours de Visualisation de données en R de l’Unité d’apprentissage et de perfectionnement (UAP) de l’ASPC! Ici, nous consignerons tous les fichiers nécessaires pour suivre le cours et réaliser les exercices associés. Si vous n’avez pas l’habitude de travailler avec Github, vous pouvez considérer cet espace comme un dossier en ligne vous permettant d’accéder aux ressources du cours. Veuillez vous assurer de consulter le guide du participant ou de la participante pour avoir un aperçu du fonctionnement du cours. Ce cours est actuellement proposé en anglais uniquement. Certains documents traduits sont disponibles sur demande.
+Bienvenue au cours de Visualisation de données en R de l’Unité d’apprentissage et de perfectionnement (UAP) de l’ASPC! Ici, nous consignerons tous les fichiers nécessaires pour suivre le cours et réaliser les exercices associés. Si vous n’avez pas l’habitude de travailler avec Github, vous pouvez considérer cet espace comme un dossier en ligne vous permettant d’accéder aux ressources du cours. Veuillez vous assurer de consulter le guide du participant ou de la participante pour avoir un aperçu du fonctionnement du cours. Ce cours est actuellement offert en anglais uniquement. La traduction du matériel en français est présentement en cours. Entre temps, certains documents déjà traduits sont disponibles sur demande.
 
 ## TÉLÉCHARGEMENT DU MATÉRIEL DU COUR:
 
